@@ -5,5 +5,5 @@
 #print(pi)
 #print
 
-print('Did you do your homework?')
-print('No,I didn't')
+print
+c

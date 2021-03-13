@@ -1,0 +1,5 @@
+print('Did you do your homework?')
+print('Yes,I did')
+print('Can you teach me how to write?')
+print('ok,sure')
+print('Thanks')
