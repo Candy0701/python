@@ -40,4 +40,3 @@ tree_leaves(-50, -20)
 tree_leaves(-50, -50)
 tree_leaves(-50, -20)
 tree_trunk(-50,-50)
-
