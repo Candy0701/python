@@ -25,7 +25,7 @@ def fighting(life, money,magic):
     print("Monster Life=%d" % monster_life
     while true:
         ans=input("要用魔法攻擊嗎? y or n")
-        if ans=='y':
+        if ans=='y' and up_magic>0:
             up_magic=up_magic-1
             attack=random.randint(4,8)
         else:
