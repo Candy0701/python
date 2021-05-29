@@ -3,10 +3,10 @@
 這個程式處理各種各樣的資料。
 以下的變數宣告後他們的資料類別是?請將嘗試碼進行正確的分類。
 int:apple、
-bool:
-str:
-float:
-example 
+bool:False
+str:David
+float:64.5
+example 545
 apple = 1000
 '''
 age = 12
