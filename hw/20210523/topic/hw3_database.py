@@ -4,9 +4,9 @@
 以下的變數宣告後他們的資料類別是?請將嘗試碼進行正確的分類。
 int:apple、
 bool:False
-str:David
+str:David 545
 float:64.5
-example 545
+example
 apple = 1000
 '''
 age = 12

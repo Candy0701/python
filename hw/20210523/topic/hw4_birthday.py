@@ -10,7 +10,7 @@
 05 print(message)
 
 請問下列何者是正確的?
-A.在01行中year 的資料類型是 str? False
+A.在01行中year 的資料類型是 str? T
 B.在03行中born 的資料類型是 float? False
-C.在04行中message 的資料類型是 bool? True
+C.在04行中message 的資料類型是 bool? F
 '''
