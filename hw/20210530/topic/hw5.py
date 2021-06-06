@@ -9,4 +9,4 @@
 ( )D. classroom[:-3]
 ( )E. classroom[1:-3]
 '''
-d
+b d

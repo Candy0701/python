@@ -11,9 +11,9 @@ print('"%s",%s' % (product, qty))
 2. 數字不得用引號或其他字元括起來。
 3. 每個產品必須用逗號隔開。
 你需要完成程式碼以符合要求。你應該使用哪三個程式碼片段?
-()A. print('"{0}",{1}'.format(product, qty))
+(#)A. print('"{0}",{1}'.format(product, qty))
 (#)B. print('"' + product + '",' + qty)
 (#)C. print('"%s",%s' % (product, qty))
 ( )D. print("{0},{1}".format(product, qty))
-(#)E. print(product + ',' + qty)
+()E. print(product + ',' + qty)
 '''
