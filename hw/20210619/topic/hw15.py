@@ -22,7 +22,7 @@ A. while
 B. for
 C. if
 D. break
-(a )(3)
+(c )(3)
 A. continue
 B. break
 C. index += 1

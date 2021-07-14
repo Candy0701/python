@@ -16,12 +16,12 @@ __(1)__
 
 
 
-(d )(1)
+(a )(1)
 A. for index in range(len(salary_list)+1):
 B. for index in range(len(salary_1ist)-1):
 C. for index in range(len(salary_list)):
 D. for index in salary_list:
-(c)(2)
+(b)(2)
 A. exit()
 B. continue
 C. break

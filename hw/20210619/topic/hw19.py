@@ -10,7 +10,7 @@ print(randint(1, 25) * 2)
 ( )B.
 from random import randint
 print(randint(1, 50))
-( #)C.
+(# )C.
 from random import randrange
 print(randrange(2, 50, 2))
 ( )D.
